@@ -1,12 +1,12 @@
 import pandas as pd
 import pprint
 import scipy
-
 import pylab
 import matplotlib.pyplot as plt
 
 
 df=pd.read_csv('20130602.csv')
+
 
 #pprint.pprint(df.head(5))
 
